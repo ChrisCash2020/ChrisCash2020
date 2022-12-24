@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h3 align="center">Hey 👋, I'm Christian Olowokere</h3>
 </p>
 <p align="center">
-    <a href="https://chrisolowokere.netlify.app">PortFolio</a>
+    <a href="https://chrisolowokere.netlify.app">Portfolio</a>
     ·
     <a href="mailto:chriscashdev@gmail.com">Email</a>
     ·
