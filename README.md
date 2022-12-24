@@ -24,12 +24,11 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/chriscashdev">Twitter</a>
 </p>
 <p align="center">
-  <h4 align="center">Passionate Web Developer</h4>
+  <h4 align="center">Web developer knowledgeable in ui design, testing, debugging, and maintenance. </h4>
 </p>
 
 <hr/>
 
-Knowledgeable in UI design, Testing, Debugging, and Maintenance.
 
 ### Projects
 #### [Tinder Clone (movieConnect)](https://github.com/ChrisCash2020/movie-client)
