@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 
 ### Projects
+#### [Food E-commerce (Toulse Exotics)](https://github.com/ChrisCash2020/food-ecommerce)
+Developed a ecommerce website where customers can login, add items to cart, and filter menu items. I also created a admin dashboard enabling owners to edit the website menu item details, add new items to the menu, and delte items.
+<br />
+
 #### [Tinder Clone (movieConnect)](https://github.com/ChrisCash2020/movie-client)
 Developed a dating website where users can create a profile, update their profile details, delete their profile, swipe on movies based on genre, and match/unmatch with people that fit their profile and movie preference.
 <br />
