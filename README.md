@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ### Projects
-#### [Food E-commerce (Toulse Exotics)](https://github.com/ChrisCash2020/food-ecommerce)
+#### [Food E-commerce (Toulse Exotica)](https://github.com/ChrisCash2020/food-ecommerce)
 Developed a ecommerce website where customers can login, add items to cart, and filter menu items. I also created a admin dashboard enabling owners to edit the website menu item details, add new items to the menu, and delte items.
 <br />
 
